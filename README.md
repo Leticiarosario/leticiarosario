@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[<img  src="https://img.icons8.com/clouds/100/4a90e2/facebook-new.png"/>](https://www.facebook.com/Leticiadeveloper)
+
 [<img src="https://img.icons8.com/clouds/100/4a90e2/linkedin.png"/>](https://www.linkedin.com/in/leticiarosario26/)
 [<img src="https://img.icons8.com/clouds/100/4a90e2/instagram-new--v1.png"/>](https://www.instagram.com/leticiarosario_dev/)
 
